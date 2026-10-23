@@ -236,6 +236,6 @@ Before instructors can publish courses, at least one **Category** (e.g., *Web De
 
 ## 🙏 Acknowledgements
 
-- Foundational frontend structure inspired by CodeHelp / Pranay Gupta's React starter template.
+- Built with modern open-source technologies including React, Node.js, Express, and MongoDB.
 - Razorpay for test payment gateway infrastructure.
 - Cloudinary for scalable multimedia asset hosting.

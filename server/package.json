@@ -7,7 +7,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Saurabh Gupta",
   "license": "ISC",
   "description": "",
   "dependencies": {

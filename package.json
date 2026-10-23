@@ -1,5 +1,5 @@
 {
-  "name": "react-tailwind-css-starter-pack",
+  "name": "studynotion-edtech-platform",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,11 +32,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": "git+https://github.com/saurabhrdj50/studynotion-edtech-platform.git"
   },
-  "author": "Pranay Gupta",
+  "author": "Saurabh Gupta",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/saurabhrdj50/studynotion-edtech-platform/issues"
   },
   "scripts": {
     "start": "react-scripts start",
